@@ -2,10 +2,12 @@ def display_rainbow(colors)
   
 
 end
-colors=["red,","orange,","yellow,","green,","blue,","indigo,","violet,"]
-
-colors= colors[0]
-display_rainbow(colors)
+colors1=["red,","orange,","yellow,","green,","blue,","indigo,","violet,"]
+ letters=["R","O","Y","G","B","I","V"]
+ colors=["","","","","","","","",""]
+ colors =letters.zip(colors1)
+  
+_rainbow(colors)
 
 
 digo","violet"]
