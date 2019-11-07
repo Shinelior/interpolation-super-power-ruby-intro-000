@@ -32,6 +32,7 @@ colors=["red","orange","yellow","green","blue","indigo","violet"]
 
 colors=colors[5]
 display_rainbow(colors)
+colors=["red","orange","yellow","green","blue","indigo","violet"]
 
 
 
