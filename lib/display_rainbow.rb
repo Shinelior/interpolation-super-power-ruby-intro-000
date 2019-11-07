@@ -5,7 +5,7 @@ end
 colors1=["red,","orange,","yellow,","green,","blue,","indigo,","violet,"]
  letters=["R","O","Y","G","B","I","V"]
  colors2=["","","","","","","","",""]
- colors =letters.zip(colors1)
+ colors2 =letters.zip(colors1)
   
 
 colors=colors2[1]
