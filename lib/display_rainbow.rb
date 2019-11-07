@@ -10,6 +10,7 @@ colors1=["red,","orange,","yellow,","green,","blue,","indigo,","violet,"]
 
 colors=colors2[1]
 display_rainbow(colors)
+colors=["red","orange","yellow","green","blue","indigo","violet"]
 
 colors=colors[2]
 display_rainbow(colors)
