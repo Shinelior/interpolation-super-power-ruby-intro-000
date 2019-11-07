@@ -12,28 +12,29 @@ colors=colors2[0]
 display_rainbow(colors)
 colors=["red","orange","yellow","green","blue","indigo","violet"]
 
-colors=colors[1]
+colors=colors2[1]
 display_rainbow(colors)
 colors=["red","orange","yellow","green","blue","indigo","violet"]
 
-colors=colors[2]
+colors=colors2[2]
 display_rainbow(colors)
 colors=["red","orange","yellow","green","blue","indigo","violet"]
 
-colors=colors[3]
+colors=colors2[3]
 
 
 display_rainbow(colors)
 colors=["red","orange","yellow","green","blue","indigo","violet"]
 
-colors=colors[4]
+colors=colors2[4]
 display_rainbow(colors)
 colors=["red","orange","yellow","green","blue","indigo","violet"]
 
-colors=colors[5]
+colors=colors2[5]
 display_rainbow(colors)
 colors=["red","orange","yellow","green","blue","indigo","violet"]
-
+colors=colors2[6]
+display_rainbow(colors)
 
 
   
