@@ -1,20 +1,14 @@
 def display_rainbow(colors)
   
-
+print 
 end
 colors1=["red,","orange,","yellow,","green,","blue,","indigo,","violet,"]
  letters=["R","O","Y","G","B","I","V"]
- colors=["","","","","","","","",""]
+ colors2=["","","","","","","","",""]
  colors =letters.zip(colors1)
   
-_rainbow(colors)
 
-
-digo","violet"]
- colors=["red","orange","yellow","green","blue","indigo","violet"]
-
-
-colors=colors[1]
+colors=colors2[1]
 display_rainbow(colors)
 colors=["red","orange","yellow","green","blue","indigo","violet"]
 
